@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_dark">#13141C</color>
+    <color name="card_bg">#373946</color>
+    <color name="avatar_bg">#606371</color>
+    <color name="delete_bg">#FF0066</color>
+    <color name="fab_blue">#0052CC</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9EA3B4</color>
+</resources>

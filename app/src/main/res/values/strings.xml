@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">24012011230_MAD_Practical-7</string>
+    <string name="title_sqlite_json">SQLite and JSON Practical</string>
+    <string name="refresh_data">Refresh Data</string>
+    <string name="person_avatar">Person Avatar</string>
+    <string name="delete_person">Delete Person</string>
+</resources>
